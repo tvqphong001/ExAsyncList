@@ -1,0 +1,92 @@
+[
+  {
+    "userId": "1",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/vegeta.jpg",
+    "message": "I'm not lying, I'm just stunnin' with my love-glue-gunnin'",
+    "userDisplayName": "Vegeta",
+    "sentTime": "2021-01-18T08:12:00:000+07:00",
+    "image": null,
+    "sticker": null
+  },
+  {
+    "userId": "2",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/trunks.jpg",
+    "message": "Just like a chick in the casino",
+    "userDisplayName": "Trunks",
+    "sentTime": "2021-01-18T05:10:00:000+07:00",
+    "image": null,
+    "sticker": null
+  },
+  {
+    "userId": "3",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/picolo.jpg",
+    "message": "We'll melt your popsicle",
+    "userDisplayName": "Picolo",
+    "sentTime": "2021-01-18T07:12:01:000+07:00",
+    "image": null,
+    "sticker": null
+  },
+  {
+    "userId": "4",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/goku.jpg",
+    "message": "I promise this, promise this",
+    "userDisplayName": "Goku",
+    "sentTime": "2021-01-18T09:12:00:000+07:00",
+    "image": null,
+    "sticker": null
+  },
+  {
+    "userId": "5",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/android16.jpg",
+    "message": "We're undeniable",
+    "userDisplayName": "Android 16",
+    "sentTime": "2021-01-18T12:01:00:000+07:00",
+    "image": null,
+    "sticker": null
+  },
+  {
+    "userId": "6",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/android19.jpg",
+    "message": "Can't read my, can't read my",
+    "userDisplayName": "Android 19",
+    "sentTime": "2021-01-18T06:21:00:000+07:00",
+    "image": null,
+    "sticker": null
+  },
+  {
+    "userId": "7",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/android21.jpg",
+    "message": "No, he can't read my poker face",
+    "userDisplayName": "Android 21",
+    "sentTime": "2021-01-18T11:06:00:000+07:00",
+    "image": null,
+    "sticker": null
+  },
+  {
+    "userId": "8",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/fat%20buu.jpg",
+    "message": "Can't read my, can't read my",
+    "userDisplayName": "Buu",
+    "sentTime": "2021-01-18T10:32:00:000+07:00",
+    "image": null,
+    "sticker": null
+  },
+  {
+    "userId": "9",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/cell.jpg",
+    "message": "No, he can't read my poker face",
+    "userDisplayName": "Cell",
+    "sentTime": "2021-01-18T14:15:00:000+07:00",
+    "image": null,
+    "sticker": null
+  },
+  {
+    "userId": "10",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/poc.jpg",
+    "message": "I've had a little bit too much, much (oh, oh, oh)",
+    "userDisplayName": "Poc",
+    "sentTime": "2021-01-18T13:12:00:000+07:00",
+    "image": null,
+    "sticker": null
+  }
+]

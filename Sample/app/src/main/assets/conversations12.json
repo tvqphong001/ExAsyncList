@@ -1,0 +1,92 @@
+[
+  {
+    "userId": "1",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/vegeta.jpg",
+    "message": "California girls",
+    "userDisplayName": "Vegeta",
+    "sentTime": "2021-01-17T02:13:00:000+07:00",
+    "image": null,
+    "sticker": null
+  },
+  {
+    "userId": "2",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/trunks.jpg",
+    "message": "We're unforgettable",
+    "userDisplayName": "Trunks",
+    "sentTime": "2021-01-17T05:11:00:000+07:00",
+    "image": null,
+    "sticker": null
+  },
+  {
+    "userId": "3",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/picolo.jpg",
+    "message": "Where are my keys? I lost my phone, phone (oh, oh, oh)",
+    "userDisplayName": "Picolo",
+    "sentTime": "2021-01-17T06:12:00:000+07:00",
+    "image": null,
+    "sticker": null
+  },
+  {
+    "userId": "4",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/goku.jpg",
+    "message": "Daisy dukes",
+    "userDisplayName": "Goku",
+    "sentTime": "2021-01-17T07:13:00:000+07:00",
+    "image": null,
+    "sticker": null
+  },
+  {
+    "userId": "5",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/android16.jpg",
+    "message": "I love this record, baby, but I can't see straight anymore (woo!)",
+    "userDisplayName": "Android 16",
+    "sentTime": "2021-01-17T10:00:00:000+07:00",
+    "image": null,
+    "sticker": null
+  },
+  {
+    "userId": "6",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/android19.jpg",
+    "message": "Keep it cool, what's the name of this club?",
+    "userDisplayName": "Android 19",
+    "sentTime": "2021-01-17T09:21:00:000+07:00",
+    "image": null,
+    "sticker": null
+  },
+  {
+    "userId": "7",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/android21.jpg",
+    "message": "I can't remember but it's alright, a-alright",
+    "userDisplayName": "Android 21",
+    "sentTime": "2021-01-17T08:06:00:000+07:00",
+    "image": null,
+    "sticker": null
+  },
+  {
+    "userId": "8",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/fat%20buu.jpg",
+    "message": "Just dance, gonna be okay, da da doo-doo-mmm",
+    "userDisplayName": "Buu",
+    "sentTime": "2021-01-17T16:32:00:000+07:00",
+    "image": null,
+    "sticker": null
+  },
+  {
+    "userId": "9",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/cell.jpg",
+    "message": "Just dance, spin that record, babe, da da doo-doo-mmm",
+    "userDisplayName": "Cell",
+    "sentTime": "2021-01-17T07:15:00:000+07:00",
+    "image": null,
+    "sticker": null
+  },
+  {
+    "userId": "10",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/poc.jpg",
+    "message": "Just dance, gonna be okay, d-d-d-dance",
+    "userDisplayName": "Poc",
+    "sentTime": "2021-01-17T11:12:00:000+07:00",
+    "image": null,
+    "sticker": null
+  }
+]

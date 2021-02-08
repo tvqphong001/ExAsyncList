@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/_60sdp">
+
+    <com.makeramen.roundedimageview.RoundedImageView
+        android:id="@+id/conImageViewPhoto"
+        android:layout_width="@dimen/_36sdp"
+        android:layout_height="@dimen/_36sdp"
+        android:layout_marginStart="@dimen/_16sdp"
+        android:scaleType="centerCrop"
+        app:riv_oval="true"
+        android:layout_marginTop="@dimen/_8sdp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:src="@mipmap/img_placeholder" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/conTextViewName"
+        style="@style/TextView"
+        android:layout_marginTop="@dimen/_4sdp"
+        android:layout_width="0dp"
+        android:maxLines="1"
+        android:fontFamily="@font/work_sans_600"
+        android:textColor="@android:color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginStart="@dimen/_16sdp"
+        app:layout_constraintStart_toEndOf="@+id/conImageViewPhoto"
+        app:layout_constraintTop_toTopOf="@id/conImageViewPhoto"
+        tools:text="@tools:sample/full_names" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/conTextViewLastMessage"
+        style="@style/TextView"
+        android:layout_width="0dp"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:layout_marginStart="@dimen/_16sdp"
+        android:fontFamily="@font/work_sans_400"
+        android:textColor="@android:color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/conImageViewPhoto"
+        app:layout_constraintTop_toBottomOf="@+id/conTextViewName"
+        tools:text="@tools:sample/full_names" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/conTextViewTime"
+        style="@style/TextView"
+        android:layout_marginEnd="@dimen/_16sdp"
+        android:fontFamily="@font/work_sans_400"
+        android:layout_marginTop="@dimen/_2sdp"
+        android:maxLines="1"
+        android:textColor="@color/colorPeterRiver"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/conTextViewLastMessage"
+        tools:text="@tools:sample/date/hhmm" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

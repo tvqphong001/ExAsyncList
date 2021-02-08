@@ -1,0 +1,92 @@
+[
+  {
+    "userId": "1",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/vegeta.jpg",
+    "message": "Before too…",
+    "userDisplayName": "Vegeta",
+    "sentTime": "2021-01-19T06:12:00:000+07:00",
+    "image": null,
+    "sticker": null
+  },
+  {
+    "userId": "2",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/trunks.jpg",
+    "message": "I wanna hold 'em like they do in Texas, please",
+    "userDisplayName": "Trunks",
+    "sentTime": "2021-01-19T07:10:00:000+07:00",
+    "image": null,
+    "sticker": null
+  },
+  {
+    "userId": "3",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/picolo.jpg",
+    "message": "Fold 'em, let 'em hit me, raise it, baby, stay with me (I love it)",
+    "userDisplayName": "Picolo",
+    "sentTime": "2021-01-19T02:12:00:000+07:00",
+    "image": null,
+    "sticker": null
+  },
+  {
+    "userId": "4",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/goku.jpg",
+    "message": "Love game intuition, play the cards with spades to start",
+    "userDisplayName": "Goku",
+    "sentTime": "2021-01-19T05:12:00:000+07:00",
+    "image": null,
+    "sticker": null
+  },
+  {
+    "userId": "5",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/android16.jpg",
+    "message": "And after he's been hooked, I'll play the one that's on his heart",
+    "userDisplayName": "Android 16",
+    "sentTime": "2021-01-19T08:00:00:000+07:00",
+    "image": null,
+    "sticker": null
+  },
+  {
+    "userId": "6",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/android19.jpg",
+    "message": "Oh, whoa, oh, oh",
+    "userDisplayName": "Android 19",
+    "sentTime": "2021-01-19T03:21:00:000+07:00",
+    "image": null,
+    "sticker": null
+  },
+  {
+    "userId": "7",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/android21.jpg",
+    "message": "I'll get him hot, show him what I've got",
+    "userDisplayName": "Android 21",
+    "sentTime": "2021-01-19T01:06:00:000+07:00",
+    "image": null,
+    "sticker": null
+  },
+  {
+    "userId": "8",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/fat%20buu.jpg",
+    "message": "I'll get him hot, show him what I've got",
+    "userDisplayName": "Buu",
+    "sentTime": "2021-01-19T07:32:00:000+07:00",
+    "image": null,
+    "sticker": null
+  },
+  {
+    "userId": "9",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/cell.jpg",
+    "message": "I won't tell you that I love you, kiss or hug you",
+    "userDisplayName": "Cell",
+    "sentTime": "2021-01-19T09:15:00:000+07:00",
+    "image": null,
+    "sticker": null
+  },
+  {
+    "userId": "10",
+    "userPhoto": "https://raw.githubusercontent.com/huyqv/assets/master/users/poc.jpg",
+    "message": "'Cause I'm bluffin' with my muffin",
+    "userDisplayName": "Poc",
+    "sentTime": "2021-01-19T04:12:00:000+07:00",
+    "image": null,
+    "sticker": null
+  }
+]
